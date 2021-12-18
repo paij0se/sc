@@ -10,5 +10,8 @@ go get.
 go run main.go
 ```
 
-https://media.discordapp.net/attachments/786759600245309460/921642716503375892/p.mp4
+
+
+
+https://user-images.githubusercontent.com/69026987/146631236-2f8f48e2-5c9c-4376-8159-5f7e42fc6bd7.mp4
 
